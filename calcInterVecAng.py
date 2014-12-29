@@ -1,3 +1,6 @@
+"""
+Author: Jian Dai
+"""
 #!/usr/bin/python
 from math import sin, cos, pi, acos
 import numpy as np
